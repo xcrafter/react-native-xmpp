@@ -82,7 +82,7 @@ On top, where imports are:
 import rnxmpp.RNXMPPPackage;
 ```
 
-Add the `ReactVideoPackage` class to your list of exported packages.
+Add the `RNXMPPPackage` class to your list of exported packages.
 
 ```java
 @Override
